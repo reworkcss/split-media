@@ -1,0 +1,32 @@
+{
+  "name": "rework-split-media",
+  "description": "Split your style sheet by @media queries",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "rework": "*"
+  },
+  "devDependencies": {
+    "css-stringify": "*",
+    "rework": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reworkcss/split-media.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reworkcss/split-media/issues",
+    "email": "me@jongleberry.com"
+  },
+  "license": "MIT"
+}

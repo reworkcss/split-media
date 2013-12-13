@@ -1,0 +1,88 @@
+{
+  "": {
+    "type": "stylesheet",
+    "stylesheet": {
+      "rules": [
+        {
+          "type": "rule",
+          "selectors": [
+            "body"
+          ],
+          "declarations": [
+            {
+              "type": "declaration",
+              "property": "color",
+              "value": "white"
+            }
+          ]
+        },
+        {
+          "type": "rule",
+          "selectors": [
+            "body"
+          ],
+          "declarations": [
+            {
+              "type": "declaration",
+              "property": "color",
+              "value": "yellow"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "(max-width: 100px)": {
+    "type": "stylesheet",
+    "stylesheet": {
+      "rules": [
+        {
+          "type": "rule",
+          "selectors": [
+            "body"
+          ],
+          "declarations": [
+            {
+              "type": "declaration",
+              "property": "color",
+              "value": "blue"
+            }
+          ]
+        },
+        {
+          "type": "rule",
+          "selectors": [
+            "body"
+          ],
+          "declarations": [
+            {
+              "type": "declaration",
+              "property": "color",
+              "value": "green"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "(max-width: 200px)": {
+    "type": "stylesheet",
+    "stylesheet": {
+      "rules": [
+        {
+          "type": "rule",
+          "selectors": [
+            "body"
+          ],
+          "declarations": [
+            {
+              "type": "declaration",
+              "property": "color",
+              "value": "purple"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
